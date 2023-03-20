@@ -1,9 +1,15 @@
 body {
-    font-family: 'Vesper Libre', serif; 
+    font-family: 'Vesper Libre'; 
     line-height: 1.5; 
     font-size: 1.25rem; 
-    text: color #1a1a1a; 
+    color: #1a1a1a; 
 }
- img {
+ img 
+ {
     width: 100%;
+}
+
+figcaption .article-category .subtitle .author time 
+{
+    font-family: 'Open Sans'
 }
