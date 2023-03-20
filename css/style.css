@@ -55,7 +55,12 @@ a:hover
 
 time.class 
 {
-font-size: .85rem;
+    font-size: .85rem;
+}
+
+.author
+{
+    margin-bottom: 0;
 }
 
 
