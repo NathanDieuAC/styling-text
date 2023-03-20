@@ -44,7 +44,8 @@ figcaption
 
 a:link
 {
-   font:'Vesper Libre' ; 
+    color: #1a1a1a;
+    font:'Vesper Libre' ; 
    text-decoration-line: underline;
 }
 a:hover
