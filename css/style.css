@@ -42,3 +42,14 @@ figcaption
     font-style: italic;    
 }
 
+a:link
+{
+   font:'Vesper Libre' ; 
+   text-decoration-line: underline;
+}
+a:hover
+{
+    text-decoration-line: none;
+    color: #ff3530;
+}
+
